@@ -11,6 +11,10 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button"/>
+        android:text="@string/button"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:backgroundTint="@android:color/holo_blue_light"/>
 
 </LinearLayout>
